@@ -142,4 +142,4 @@ async def second_counter():
             update_data()
 
 client.loop.create_task(second_counter())
-client.run(data.self_bot_token, bot=False)
+client.run(data.NTg2NDE2ODUxOTAzNTc4MTEy.XScPaQ._HhPp8vcO-Ikad8J-KK7U-SIWtY, bot=False)
